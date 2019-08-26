@@ -51,5 +51,3 @@ npm i  gh-pages
   - deploy는 build폴더를 upload한다.
   - deploy를 실행하면 predeploy가 자동으로 실행된다.
   - 
-
-test
